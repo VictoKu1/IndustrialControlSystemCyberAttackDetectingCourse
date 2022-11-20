@@ -24,13 +24,13 @@ http://www.google.com/url?q=http%3A%2F%2Fwww.ece.uah.edu%2F~thm0009%2Ficsdataset
 
 The power system datasets have been used for multiple works related to power system cyber-attack classification.
 
-Pan, S., Morris, T., Adhikari, U., Developing a Hybrid Intrusion Detection System Using Data Mining for Power Systems, IEEE Transactions on Smart Grid. doi: 10.1109/TSG.2015.2409775 link (http://www.google.com/url?q=http%3A%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D7063234%26isnumber%3D5446437&sa=D&sntz=1&usg=AOvVaw06Q-fkYHriTfgJYieCBnJc)
+Pan, S., Morris, T., Adhikari, U., Developing a Hybrid Intrusion Detection System Using Data Mining for Power Systems, IEEE Transactions on Smart Grid. doi: 10.1109/TSG.2015.2409775 [link](http://www.google.com/url?q=http%3A%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D7063234%26isnumber%3D5446437&sa=D&sntz=1&usg=AOvVaw06Q-fkYHriTfgJYieCBnJc)
 
-Pan, S., Morris, T., Adhikari, U., Classification of Disturbances and Cyber-attacks in Power Systems Using Heterogeneous Time-synchronized Data, IEEE Transactions on Industrial Informatics. doi: 10.1109/TII.2015.2420951 link (http://www.google.com/url?q=http%3A%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D7081776%26isnumber%3D4389054&sa=D&sntz=1&usg=AOvVaw21tCmn-MAAmkUzCRpflyv_)
+Pan, S., Morris, T., Adhikari, U., Classification of Disturbances and Cyber-attacks in Power Systems Using Heterogeneous Time-synchronized Data, IEEE Transactions on Industrial Informatics. doi: 10.1109/TII.2015.2420951 [link](http://www.google.com/url?q=http%3A%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D7081776%26isnumber%3D4389054&sa=D&sntz=1&usg=AOvVaw21tCmn-MAAmkUzCRpflyv_)
 
-Pan, S., Morris, T., Adhikari, U., A Specification-based Intrusion Detection Framework for Cyber-physical Environment in Electric Power System, International Journal of Network Security (IJNS), Vol.17, No.2, PP.174-188, March 2015. pdf (http://www.google.com/url?q=http%3A%2F%2Fijns.jalaxy.com.tw%2Fcontents%2Fijns-v17-n2%2Fijns-2015-v17-n2-p174-188.pdf&sa=D&sntz=1&usg=AOvVaw3qkk5GcOIxcgHQesgQjr5w)
+Pan, S., Morris, T., Adhikari, U., A Specification-based Intrusion Detection Framework for Cyber-physical Environment in Electric Power System, International Journal of Network Security (IJNS), Vol.17, No.2, PP.174-188, March 2015. [pdf](http://www.google.com/url?q=http%3A%2F%2Fijns.jalaxy.com.tw%2Fcontents%2Fijns-v17-n2%2Fijns-2015-v17-n2-p174-188.pdf&sa=D&sntz=1&usg=AOvVaw3qkk5GcOIxcgHQesgQjr5w)
 
-Beaver, J., Borges, R., Buckner, M., Morris, T., Adhikari, U., Pan, S., Machine Learning for Power System Disturbance and Cyber-attack Discrimination, Proceedings of the 7th International Symposium on Resilient Control Systems, August 19-21,2014, Denver, CO, USA. link (https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1109%2FISRCS.2014.6900095&sa=D&sntz=1&usg=AOvVaw3fR5r_1bSnchlVhDlEXHXE)
+Beaver, J., Borges, R., Buckner, M., Morris, T., Adhikari, U., Pan, S., Machine Learning for Power System Disturbance and Cyber-attack Discrimination, Proceedings of the 7th International Symposium on Resilient Control Systems, August 19-21,2014, Denver, CO, USA. [link](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1109%2FISRCS.2014.6900095&sa=D&sntz=1&usg=AOvVaw3fR5r_1bSnchlVhDlEXHXE)
 
 
 
