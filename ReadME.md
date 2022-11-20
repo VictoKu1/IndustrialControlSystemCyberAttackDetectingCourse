@@ -22,18 +22,6 @@ README Description:
 
 http://www.google.com/url?q=http%3A%2F%2Fwww.ece.uah.edu%2F~thm0009%2Ficsdatasets%2FPowerSystem_Dataset_README.pdf&sa=D&sntz=1&usg=AOvVaw3t-soxdA-27GPUSRG1JP_Q
 
-2 Classes:
-
-http://www.google.com/url?q=http%3A%2F%2Fwww.ece.uah.edu%2F~thm0009%2Ficsdatasets%2FbinaryAllNaturalPlusNormalVsAttacks.7z&sa=D&sntz=1&usg=AOvVaw0_ZF7RZ4v-EpGWzIw5Rf3Y
-
-3 Classes:
-
-http://www.google.com/url?q=http%3A%2F%2Fwww.ece.uah.edu%2F~thm0009%2Ficsdatasets%2Ftriple.7z&sa=D&sntz=1&usg=AOvVaw1j3lUOmCHQ0DlTkGH8VgAy
-
-Multi-class:
-
-http://www.google.com/url?q=http%3A%2F%2Fwww.ece.uah.edu%2F~thm0009%2Ficsdatasets%2Fmulticlass.7z&sa=D&sntz=1&usg=AOvVaw0unEHlGHlYQX3kBvTL20vM
-
 The power system datasets have been used for multiple works related to power system cyber-attack classification.
 
 Pan, S., Morris, T., Adhikari, U., Developing a Hybrid Intrusion Detection System Using Data Mining for Power Systems, IEEE Transactions on Smart Grid. doi: 10.1109/TSG.2015.2409775 link (http://www.google.com/url?q=http%3A%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D7063234%26isnumber%3D5446437&sa=D&sntz=1&usg=AOvVaw06Q-fkYHriTfgJYieCBnJc)
@@ -64,6 +52,8 @@ https://arxiv.org/pdf/1907.01216
 https://dora.dmu.ac.uk/bitstream/handle/2086/13839/ewic_icscsr2016_paper12.pdf?sequence=1
 
 https://ieeexplore.ieee.org/iel7/6287639/8948470/09086038.pdf
+
+
 
 
 
