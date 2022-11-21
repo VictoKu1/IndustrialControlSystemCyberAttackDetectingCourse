@@ -4,11 +4,11 @@ LaTeX File (Upload To Overleaf): [Industrial Control System Power System Cyber A
 
 ## Datasets:
 
-[2 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/binaryAllNaturalPlusNormalVsAttacks.7z)
+[2 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/binaryAllNaturalPlusNormalVsAttacks.7z)
 
-[3 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/triple.7z)
+[3 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/triple.7z)
 
-[Multi-class](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/multiclass.7z)
+[Multi-class](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/multiclass.7z)
 
 #### Main website
 
