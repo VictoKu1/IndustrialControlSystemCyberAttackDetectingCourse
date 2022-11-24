@@ -7,11 +7,11 @@ LaTeX File (Upload To Overleaf):
 
 ## Datasets:
 
-[2 Classes] (https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/binaryAllNaturalPlusNormalVsAttacks.7z)
+[2 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/binaryAllNaturalPlusNormalVsAttacks.7z)
 
-[3 Classes] (https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/triple.7z)
+[3 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/triple.7z)
 
-[Multi-class] (https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/multiclass.7z)
+[Multi-class](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/multiclass.7z)
 
 
 ## Main website
@@ -23,8 +23,7 @@ https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets
 
 Uttam Adhikari, Shengyi Pan, and Tommy Morris in collaboration with Raymond Borges and Justin Beaver of Oak Ridge National Laboratories (ORNL) have created 3 datasets which include measurements related to electric transmission system normal, disturbance, control, cyber attack behaviors. Measurements in the dataset include synchrophasor measurements and data logs from Snort, a simulated control panel, and relays.
 
-[README Description]
-(http://www.google.com/url?q=http%3A%2F%2Fwww.ece.uah.edu%2F~thm0009%2Ficsdatasets%2FPowerSystem_Dataset_README.pdf&sa=D&sntz=1&usg=AOvVaw3t-soxdA-27GPUSRG1JP_Q)
+[README Description](http://www.google.com/url?q=http%3A%2F%2Fwww.ece.uah.edu%2F~thm0009%2Ficsdatasets%2FPowerSystem_Dataset_README.pdf&sa=D&sntz=1&usg=AOvVaw3t-soxdA-27GPUSRG1JP_Q)
 
 The power system datasets have been used for multiple works related to power system cyber-attack classification.
 
