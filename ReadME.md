@@ -1,25 +1,24 @@
 # Industrial Control System Power System Cyber Attacks Detection Research
 
-LaTeX File (Upload To Overleaf): 
+###### Ariel University, Israel || Semester A - 2022
 
-[Industrial Control System Power System Cyber Attacks Detection Research.zip](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Industrial%20Control%20System%20Power%20System%20Cyber%20Attacks%20Detection%20Research.zip)
+
+LaTeX File (Upload To Overleaf): [Industrial Control System Power System Cyber Attacks Detection Research.zip](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Industrial%20Control%20System%20Power%20System%20Cyber%20Attacks%20Detection%20Research.zip)
 
 
 ## Datasets:
 
-[2 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/binaryAllNaturalPlusNormalVsAttacks.7z)
-
-[3 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/triple.7z)
-
-[Multi-class](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/multiclass.7z)
+* [2 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/binaryAllNaturalPlusNormalVsAttacks.7z)
+* [3 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/triple.7z)
+* [Multi-class](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/multiclass.7z)
 
 
 ## Main website
 
-https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets
+[Link](https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets)
 
 
-## Dataset 1: Power System Datasets
+### Dataset 1: Power System Datasets
 
 Uttam Adhikari, Shengyi Pan, and Tommy Morris in collaboration with Raymond Borges and Justin Beaver of Oak Ridge National Laboratories (ORNL) have created 3 datasets which include measurements related to electric transmission system normal, disturbance, control, cyber attack behaviors. Measurements in the dataset include synchrophasor measurements and data logs from Snort, a simulated control panel, and relays.
 
@@ -38,12 +37,12 @@ The power system datasets have been used for multiple works related to power sys
 
 ## Additional Articles
 
-1. https://link.springer.com/content/pdf/10.1007/978-3-662-45355-1_5.pdf
+1. [Link 1](https://link.springer.com/content/pdf/10.1007/978-3-662-45355-1_5.pdf)
 
-2. https://www.researchgate.net/profile/Ichiro-Koshijima/publication/318127445_Cyber-Attack_Detection_for_Industrial_Control_System_Monitoring_with_Support_Vector_Machine_Based_on_Communication_Profile/links/59f477b50f7e9b553ebbdeb6/Cyber-Attack-Detection-for-Industrial-Control-System-Monitoring-with-Support-Vector-Machine-Based-on-Communication-Profile.pdf
+2. [Link 2](https://www.researchgate.net/profile/Ichiro-Koshijima/publication/318127445_Cyber-Attack_Detection_for_Industrial_Control_System_Monitoring_with_Support_Vector_Machine_Based_on_Communication_Profile/links/59f477b50f7e9b553ebbdeb6/Cyber-Attack-Detection-for-Industrial-Control-System-Monitoring-with-Support-Vector-Machine-Based-on-Communication-Profile.pdf)
 
-3. https://arxiv.org/pdf/1907.01216
+3. [Link 3](https://arxiv.org/pdf/1907.01216)
 
-4. https://dora.dmu.ac.uk/bitstream/handle/2086/13839/ewic_icscsr2016_paper12.pdf?sequence=1
+4. [Link 4](https://dora.dmu.ac.uk/bitstream/handle/2086/13839/ewic_icscsr2016_paper12.pdf?sequence=1)
 
-5. https://ieeexplore.ieee.org/iel7/6287639/8948470/09086038.pdf
+5. [Link 5](https://ieeexplore.ieee.org/iel7/6287639/8948470/09086038.pdf)
