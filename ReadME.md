@@ -48,4 +48,3 @@ The power system datasets have been used for multiple works related to power sys
 
 5. [Link 5](https://ieeexplore.ieee.org/iel7/6287639/8948470/09086038.pdf)
 
-
