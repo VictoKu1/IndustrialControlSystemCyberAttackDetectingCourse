@@ -48,3 +48,14 @@ The power system datasets have been used for multiple works related to power sys
 
 5. [Link 5](https://ieeexplore.ieee.org/iel7/6287639/8948470/09086038.pdf)
 
+There are several publicly available datasets that could potentially be useful for research or experimentation in the area of industrial control system (ICS) power system cyberattacks detection. Some examples of datasets that may be of interest include:
+
+* The NERC-CIP dataset (https://www.nerc.com/pa/Stand/Pages/CIP-Simulated-Data-Sets.aspx): This dataset contains simulated power system data and cyberattack scenarios, and was developed by the North American Electric Reliability Corporation (NERC). It is designed to be used for research and experimentation in the area of ICS cyber security.
+
+* The SCADA dataset (https://www.inl.gov/technicalpublications/Documents/5114928.pdf): This dataset contains data from a simulated SCADA system and a number of cyberattack scenarios. It was developed by the Idaho National Laboratory (INL) and is available for use in research and experimentation.
+
+* The WADI dataset (https://www.gtisc.gatech.edu/node/1671): This dataset contains data from a simulated water treatment plant, and includes both normal and anomalous data. It was developed by the Georgia Institute of Technology and is available for use in research and experimentation.
+
+* The ICS-CERT dataset (https://ics-cert.us-cert.gov/ICS-CERT-ICS-ALERT-16-203-01): This dataset contains data from a simulated SCADA system and a number of cyberattack scenarios. It was developed by the US Department of Homeland Security (DHS) and is available for use in research and experimentation.
+
+* The UAH Power System Dataset (http://www.ece.uah.edu/~thm0009/icsdatasets/): This dataset contains data from a simulated power system and a number of cyberattack scenarios. It was developed by the University of Alabama in Huntsville (UAH) and is available for use in research and experimentation.
