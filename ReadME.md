@@ -48,7 +48,9 @@ The power system datasets have been used for multiple works related to power sys
 5. [Link 5](https://ieeexplore.ieee.org/iel7/6287639/8948470/09086038.pdf)
 
 
-There are several publicly available datasets that could potentially be useful for research or experimentation in the area of industrial control system (ICS) power system cyberattacks detection.  </br> Some examples of datasets that may be of interest include:
+### Some Examples Of Datasets That May Help
+
+There are several publicly available datasets that could potentially be useful for research or experimentation in the area of industrial control system (ICS) power system cyberattacks detection.
 
 * [The NERC-CIP Dataset](https://www.nerc.com/pa/Stand/Pages/CIP-Simulated-Data-Sets.aspx): </br> This dataset contains simulated power system data and cyberattack scenarios, and was developed by the North American Electric Reliability Corporation (NERC). It is designed to be used for research and experimentation in the area of ICS cyber security.
 
