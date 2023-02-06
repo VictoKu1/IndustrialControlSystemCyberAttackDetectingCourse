@@ -13,9 +13,9 @@
 
 ### Datasets
 
-* [2 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/binaryAllNaturalPlusNormalVsAttacks.7z)
-* [3 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/triple.7z)
-* [Multi-class](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/multiclass.7z)
+* [2 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/binaryAllNaturalPlusNormalVsAttacks)
+* [3 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/triple)
+* [Multi-class](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/multiclass)
 
 
 ### Power System Datasets (Dataset 1)
