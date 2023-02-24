@@ -1,6 +1,6 @@
-# Industrial Control System Power System Cyber Attacks Detection Research
+# Industrial Control System Power - Cyber Attacks Detection 
 
-###### Ariel University, Israel || Semester A - 2022
+###### Ariel University, Israel || Semester A, 2022
 
 
 ### LaTeX File (Upload To Overleaf)
