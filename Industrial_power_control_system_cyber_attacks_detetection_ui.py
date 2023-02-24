@@ -179,7 +179,7 @@ def model(test_df):
 def calculate(filename1):
 
     # Load the test data
-    test_df = pd.read_csv("test.csv")
+    test_df = pd.read_csv(filename1)
     # Predict the test data
     prediction = model(test_df)
     results01 = []
