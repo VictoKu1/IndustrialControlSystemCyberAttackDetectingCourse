@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Industrial Control System Power System (ICS) Cyber Attacks Detection Research.</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body>
+  <div style="text-align: center">
+    <h1>Upload a CSV file</h1>
+    <form method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="submit" name="submit" value="Send">
+    </form>
+  <br>
+  <script>
+    function validateFile() {
+      var fileInput = document.getElementById('file');
+      var filePath = fileInput.value;
+      var allowedExtensions = /(\.csv)$/i;
+
+      if (!allowedExtensions.exec(filePath)) {
+          alert('Invalid file type. Only CSV files are allowed.');
+          fileInput.value = '';
+          return false;
+      }
+
+      return true;
+  }
+  </script>
+  </div>
+</body>
+</html>
+
+
+

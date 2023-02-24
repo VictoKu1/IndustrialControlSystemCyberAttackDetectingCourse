@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Result</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body>
+  <div style="text-align: center">
+    <h1>Results</h1>
+        <p id="result-text"></p>
+        <script>
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', '/get_results', true);
+            xhr.onload = function() {
+                if (xhr.status === 200) {
+                    var resultText = document.getElementById('result-text');
+                    resultText.textContent = xhr.responseText;
+                }
+            };
+            xhr.send();
+        </script>
+  </div>
+</body>
+</html>
+
+
+
+
+
