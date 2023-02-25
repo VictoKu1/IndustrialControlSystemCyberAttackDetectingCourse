@@ -25,10 +25,10 @@ COPY Industrial_power_control_system_cyber_attacks_detetection_ui.py .
 #Download the github repository
 RUN git clone https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse
 
-# Set the working directory
+# Set the working directory and pull the latest version of the repository
 WORKDIR /IndustrialControlSystemCyberAttackDetectingCourse
+RUN git pull
 
 # Set the command to run when the container starts
 CMD ["python", "Industrial_power_control_system_cyber_attacks_detetection_ui.py"]
-
 

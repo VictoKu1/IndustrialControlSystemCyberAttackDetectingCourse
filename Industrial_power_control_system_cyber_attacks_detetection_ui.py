@@ -156,7 +156,7 @@ def preprocess(df):
 
 
 
-model_file_name = "model.pkl"
+model_file_name = "1/m1_sc_grid.pkl"
 
 def model(test_df):
     # Load the model
@@ -193,7 +193,7 @@ def calculate(filename1):
 
 
 if __name__ == "__main__":
-    results01 = calculate("test.csv")
+    results01 = calculate("Class/binaryAllNaturalPlusNormalVsAttacks/data1.csv")
     # Print the prediction
     print(results01)
 
