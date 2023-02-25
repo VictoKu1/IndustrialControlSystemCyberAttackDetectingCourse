@@ -13,16 +13,22 @@ FROM python:3
 
 
 # Install dependencies
-RUN pip install pickle numpy pandas scikit-learn
+RUN pip install --upgrade pip
+RUN pip install pickle-mixin numpy pandas scikit-learn
 
 
 
 
 # Copy the necessary files from the host machine to the container
 COPY Industrial_power_control_system_cyber_attacks_detetection_ui.py .
-COPY rfecv.pkl .
-COPY model.pkl .
+
+#Download the github repository
+RUN git clone https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse
+
+# Set the working directory
+WORKDIR /IndustrialControlSystemCyberAttackDetectingCourse
 
 # Set the command to run when the container starts
 CMD ["python", "Industrial_power_control_system_cyber_attacks_detetection_ui.py"]
+
 
