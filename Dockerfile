@@ -18,7 +18,6 @@ RUN pip install pickle-mixin numpy pandas scikit-learn
 
 
 
-
 # Copy the necessary files from the host machine to the container
 COPY Industrial_power_control_system_cyber_attacks_detetection_ui.py .
 

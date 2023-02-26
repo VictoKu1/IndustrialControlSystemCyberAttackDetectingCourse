@@ -244,6 +244,9 @@ def calculate(test_df):
 
 
 if __name__ == "__main__":
+    import sklearn
+
+    print('The scikit-learn version is {}.'.format(sklearn.__version__))
     try:
         csv_url = str(input("Enter the URL of the csv file: "))
     except Exception as e:
