@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.8
+
 # UI which is being called by the Dockerfile
 # and allows the user to add csv files and returns a classification
 # of the data, if it is a regular operation, natural event or a cyber attack.
