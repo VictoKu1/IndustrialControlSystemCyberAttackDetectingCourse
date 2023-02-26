@@ -27,6 +27,10 @@ from sklearn.metrics import classification_report
 import pandas as pd
 import numpy as np
 import pickle
+import sys
+
+
+
 
 scenarios = {1: "Natural events (SLG faults), Fault from 10-19% on L1",
              2: "Natural events (SLG faults), Fault from 20-79% on L1",
@@ -226,10 +230,10 @@ def model(test_df):
     return prediction
 
 
-def calculate(filename1):
+def calculate(test_df):
 
     # Load the test data
-    test_df = pd.read_csv(filename1)
+    # test_df = pd.read_csv(filename1)
     # Predict the test data
     prediction = model(test_df)
     # results01 = []
@@ -240,6 +244,22 @@ def calculate(filename1):
 
 
 if __name__ == "__main__":
-    results01 = calculate("Class/binaryAllNaturalPlusNormalVsAttacks/data1.csv")
+    try:
+        csv_url = str(input("Enter the URL of the csv file: "))
+    except Exception as e:
+        print("Error: ", e)
+        sys.exit(1)
+
+    # Load the csv file from the URL
+    from urllib.request import urlopen
+    from io import StringIO
+    csv = urlopen(csv_url).read().decode('utf-8')
+    df = pd.read_csv(StringIO(csv))
+    print(df)
+    results01 = calculate(df)
+    p = ["Attack", "Natural"]
     # Print the prediction
-    print(results01)
+    index = 0
+    for result1 in results01:
+        index += 1
+        print(str(index) +": "+p[result1])
