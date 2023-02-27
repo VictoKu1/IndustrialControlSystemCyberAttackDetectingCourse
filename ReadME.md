@@ -5,26 +5,24 @@
 [Presentation](https://www.canva.com/design/DAFbkwt6KjQ/7im1RNlKjYkdZpg1dugivg/view?utm_content=DAFbkwt6KjQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
-
-### LaTeX File (Upload To Overleaf)
+## LaTeX File (Upload To Overleaf)
 
 [Industrial Control System Power System Cyber Attacks Detection Research.zip](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Industrial%20Power%20Control%20System%20Cyber%20Attacks%20Detection.zip)
 
 
-### Main website
+## Main website
 
 [Link](https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets)
 
 
-
-### Datasets
+## Datasets
 
 * [2 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/binaryAllNaturalPlusNormalVsAttacks)
 * [3 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/triple)
 * [Multi-class](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/multiclass)
 
 
-### Power System Datasets (Dataset 1)
+## Power System Datasets (Dataset 1)
 
 Uttam Adhikari, Shengyi Pan, and Tommy Morris in collaboration with Raymond Borges and Justin Beaver of Oak Ridge National Laboratories (ORNL) have created 3 datasets which include measurements related to electric transmission system normal, disturbance, control, cyber attack behaviors. Measurements in the dataset include synchrophasor measurements and data logs from Snort, a simulated control panel, and relays.
 
@@ -41,20 +39,20 @@ The power system datasets have been used for multiple works related to power sys
 * [Beaver, J., Borges, R., Buckner, M., Morris, T., Adhikari, U., Pan, S., Machine Learning for Power System Disturbance and Cyber-attack Discrimination, Proceedings of the 7th International Symposium on Resilient Control Systems, August 19-21,2014, Denver, CO, USA.](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1109%2FISRCS.2014.6900095&sa=D&sntz=1&usg=AOvVaw3fR5r_1bSnchlVhDlEXHXE)
 
 
-### Additional Articles
+## Additional Articles
 
-1. [Link 1](https://link.springer.com/content/pdf/10.1007/978-3-662-45355-1_5.pdf)
+1. Industrial Control System Traffic Datasets For Intrusion Detection Research [Link](https://link.springer.com/content/pdf/10.1007/978-3-662-45355-1_5.pdf)
 
-2. [Link 2](https://www.researchgate.net/profile/Ichiro-Koshijima/publication/318127445_Cyber-Attack_Detection_for_Industrial_Control_System_Monitoring_with_Support_Vector_Machine_Based_on_Communication_Profile/links/59f477b50f7e9b553ebbdeb6/Cyber-Attack-Detection-for-Industrial-Control-System-Monitoring-with-Support-Vector-Machine-Based-on-Communication-Profile.pdf)
+2. Cyber-Attack Detection for Industrial Control System Monitoring with Support Vector Machine Based on Communication Profile [Link](https://www.researchgate.net/profile/Ichiro-Koshijima/publication/318127445_Cyber-Attack_Detection_for_Industrial_Control_System_Monitoring_with_Support_Vector_Machine_Based_on_Communication_Profile/links/59f477b50f7e9b553ebbdeb6/Cyber-Attack-Detection-for-Industrial-Control-System-Monitoring-with-Support-Vector-Machine-Based-on-Communication-Profile.pdf)
 
-3. [Link 3](https://arxiv.org/pdf/1907.01216)
+3. Efficient Cyber Attack Detection in Industrial Control Systems Using Lightweight Neural Networks and PCA [Link](https://arxiv.org/pdf/1907.01216)
 
-4. [Link 4](https://dora.dmu.ac.uk/bitstream/handle/2086/13839/ewic_icscsr2016_paper12.pdf?sequence=1)
+4. Measuring the Risk of Cyber Attack in Industrial Control Systems [Link](https://dora.dmu.ac.uk/bitstream/handle/2086/13839/ewic_icscsr2016_paper12.pdf?sequence=1)
 
-5. [Link 5](https://ieeexplore.ieee.org/iel7/6287639/8948470/09086038.pdf)
+5. An Ensemble Deep Learning-Based Cyber-Attack Detection in Industrial Control System [Link](https://ieeexplore.ieee.org/iel7/6287639/8948470/09086038.pdf)
 
 
-### Some Examples Of Datasets That May Help
+## Examples Of Datasets
 
 There are several publicly available datasets that could potentially be useful for research or experimentation in the area of industrial control system (ICS) power system cyberattacks detection.
 
