@@ -13,8 +13,7 @@
 
 ### Main website
 
-* [Link 1](https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets)
-* [Link 2](http://157.230.22.122:5079/)
+[Link](https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets)
 
 
 
