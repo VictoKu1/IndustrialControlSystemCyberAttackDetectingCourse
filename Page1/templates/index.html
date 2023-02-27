@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Industrial Control System Power System (ICS) Cyber Attacks Detection Research.</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body>
+  
+  <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFbkwt6KjQ&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+  <div style="text-align: center">
+    <h1>Upload a CSV file to try it yourself</h1>
+    <form method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="submit" name="submit" value="Send">
+    </form>
+  <br>
+  <script>
+    function validateFile() {
+      var fileInput = document.getElementById('file');
+      var filePath = fileInput.value;
+      var allowedExtensions = /(\.csv)$/i;
+
+      if (!allowedExtensions.exec(filePath)) {
+          alert('Invalid file type. Only CSV files are allowed.');
+          fileInput.value = '';
+          return false;
+      }
+
+      return true;
+  }
+  </script>
+  </div>
+</body>
+</html>
+
+
+
