@@ -15,7 +15,6 @@ FROM python:3.8
 # Install dependencies
 RUN pip install --upgrade pip
 RUN pip install pickle-mixin numpy pandas scikit-learn==1.1.3
-RUN pip install --upgrade pickle-mixin numpy pandas scikit-learn
 
 
 # Copy the necessary files from the host machine to the container
@@ -30,4 +29,6 @@ RUN git pull
 
 # Set the command to run when the container starts
 CMD ["python", "Industrial_power_control_system_cyber_attacks_detetection_ui.py"]
+
+
 
