@@ -14,7 +14,7 @@ FROM python:3.8
 
 # Install dependencies
 RUN pip install --upgrade pip
-RUN pip install pickle-mixin numpy pandas scikit-learn
+RUN pip install pickle-mixin numpy pandas scikit-learn==1.1.3
 RUN pip install --upgrade pickle-mixin numpy pandas scikit-learn
 
 
