@@ -15,7 +15,7 @@ FROM python:3
 # Install dependencies
 RUN pip install --upgrade pip
 RUN pip install pickle-mixin numpy pandas scikit-learn
-
+RUN pip install --upgrade pickle-mixin numpy pandas scikit-learn
 
 
 # Copy the necessary files from the host machine to the container
