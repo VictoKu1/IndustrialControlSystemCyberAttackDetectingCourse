@@ -39,6 +39,6 @@ def results():
 if __name__ == "__main__":
     # Run the app
     app.secret_key = 'my-secret-key' # Set a secret key for the session
-    app.run(host="0.0.0.0", port=5001)
+    app.run(host="0.0.0.0", port=5079)
 
 
