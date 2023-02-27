@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Result</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css') }}">
+  <style>
+		.predictions-item {
+			margin-bottom: 10px;
+		}
+	</style>
+</head>
+<body>
+  <div style="text-align: center">
+    <h1>Results</h1>
+        <div id="predictions"></div>
+        <script>
+            var predictions = JSON.parse('{{ predictions | tojson }}');
+            var container = document.getElementById('predictions').innerHTML;
+            // Loop through each prediction and create a new div for it
+		        predictions.forEach(function(prediction) {
+			        var predictionDiv = document.createElement("div");
+			        predictionDiv.classList.add("predictions-item");
+			        var predictionText = document.createTextNode(prediction);
+			        predictionDiv.appendChild(predictionText);
+			        container.appendChild(predictionDiv);
+		        });
+        </script>
+  </div>
+</body>
+</html>
+
+
+
+
