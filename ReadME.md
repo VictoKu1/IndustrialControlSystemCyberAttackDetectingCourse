@@ -2,6 +2,16 @@
 
 ###### Ariel University, Israel || Semester A, 2022
 
+## [Presentation](https://www.canva.com/design/DAFbkwt6KjQ/7im1RNlKjYkdZpg1dugivg/view?utm_content=DAFbkwt6KjQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+[![images_01](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/1.gif)](https://www.canva.com/design/DAFbkwt6KjQ/7im1RNlKjYkdZpg1dugivg/view?utm_content=DAFbkwt6KjQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
+
+
+
+
+
 ## Links
 
 #### Datasets:
@@ -32,15 +42,6 @@ http://157.230.22.122:5079/
 
 
 
-## [Presentation](https://www.canva.com/design/DAFbkwt6KjQ/7im1RNlKjYkdZpg1dugivg/view?utm_content=DAFbkwt6KjQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-[![images_01](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/1.gif)](https://www.canva.com/design/DAFbkwt6KjQ/7im1RNlKjYkdZpg1dugivg/view?utm_content=DAFbkwt6KjQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-
-
-
-
-
 ## Datasets
 
 * [2 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/binaryAllNaturalPlusNormalVsAttacks) - The 37 event scenarios were grouped as either an attack (28 events) or normal operations (9 events). The data was drawn from 15 data sets which included thousands of individual samples of measurements throughout the power system for each event type.
@@ -48,6 +49,10 @@ http://157.230.22.122:5079/
 * [3 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/triple) - The 37 event scenarios were grouped into 3 classes: attack events (28 events), natural event (8 events) or “No events” (1 event).
 
 * [Multi-class](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/multiclass) - Each of the 37 event scenarios, which included attack events, natural events, and normal operations, was its own class and was predicted independently by the learners,
+
+
+
+
 
 
 
@@ -79,13 +84,6 @@ The power system datasets have been used for multiple works related to power sys
 4. [Measuring the Risk of Cyber Attack in Industrial Control Systems](https://dora.dmu.ac.uk/bitstream/handle/2086/13839/ewic_icscsr2016_paper12.pdf?sequence=1)
 
 5. [An Ensemble Deep Learning-Based Cyber-Attack Detection in Industrial Control System](https://ieeexplore.ieee.org/iel7/6287639/8948470/09086038.pdf)
-
-
-
-
-
-
-
 
 
 
