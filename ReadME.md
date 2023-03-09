@@ -44,7 +44,19 @@ http://157.230.22.122:5079/
 ```
 # Info
 
-<iframe src="https://www.canva.com/design/DAFbkwt6KjQ/7im1RNlKjYkdZpg1dugivg/embed?embed_type=overlay" width="100%" height="500" frameborder="0" allow="fullscreen"></iframe>
+<div style="width: 500px; overflow: scroll;">
+  <img src="https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/1.jpg?raw=true" style="width: 200px; display: inline-block;">
+  <img src="https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/2.jpg?raw=true" style="width: 200px; display: inline-block;">
+  <img src="https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/3.jpg?raw=true" style="width: 200px; display: inline-block;">
+  <img src="https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/4.jpg?raw=true" style="width: 200px; display: inline-block;">
+  <img src="https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/5.jpg?raw=true" style="width: 200px; display: inline-block;">
+
+
+
+
+
+
+</div>
 
 
 
