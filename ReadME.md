@@ -44,11 +44,7 @@ http://157.230.22.122:5079/
 ```
 # Info
 
-## What is it all about?
-
-
-
-Industrial control systems (ICSs), also known as supervisory control and data acquisition (SCADA) systems, combine distributed computing with physical process monitoring and control. They are comprised of elements providing feedback from the physical world (sensors), elements influencing it  (actuators), as well as computers and controller networks that process the feedback data and issue commands to the actuators.
+[embed]https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Show1.pdf[/embed] 
 
 
 
