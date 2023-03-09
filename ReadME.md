@@ -44,7 +44,7 @@ http://157.230.22.122:5079/
 ```
 # Info
 
-<div style="width: 500px; overflow: scroll;">
+<div style="width: 100%; overflow: scroll;">
   <img src="https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/1.jpg?raw=true" style="width: 200px; display: inline-block;">
   <img src="https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/2.jpg?raw=true" style="width: 200px; display: inline-block;">
   <img src="https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/3.jpg?raw=true" style="width: 200px; display: inline-block;">
