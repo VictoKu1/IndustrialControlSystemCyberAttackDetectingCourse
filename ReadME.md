@@ -25,12 +25,12 @@
 
 2. Build the docker image:
 ```
-    docker build -t anomaly_detection_ui
+    docker build -t attack_detection_ui
 ```
 
 3. Run the docker container:
 ```
-    docker run -it  anomaly_detection_ui
+    docker run -it  attack_detection_ui
 ```
 
 
