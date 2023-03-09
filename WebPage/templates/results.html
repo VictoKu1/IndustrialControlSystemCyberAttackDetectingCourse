@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Result</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body>
+  <div style="text-align: center">
+    <h1>Results</h1>
+        <div id="predictions"></div>
+        <script>
+            var predictions = {{ predictions }};
+            for (var i = 0; i < predictions.length; i++) {
+                if (predictions[i] == 0) {
+                    predictions[i] = i + ": Attack";
+                } else {
+                    predictions[i] = i + ": Normal";
+                }
+            }
+            document.getElementById('predictions').innerHTML = predictions;
+        </script>
+  </div>
+</body>
+</html>
