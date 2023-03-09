@@ -34,27 +34,8 @@ http://157.230.22.122:5079/
 
 ## [Presentation](https://www.canva.com/design/DAFbkwt6KjQ/7im1RNlKjYkdZpg1dugivg/view?utm_content=DAFbkwt6KjQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-![images_01](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/1.jpg)
-![images_02](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/2.jpg)
-![images_03](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/3.jpg)
-![images_04](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/4.jpg)
-![images_05](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/5.jpg)
-![images_06](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/6.jpg)
-![images_07](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/7.jpg)
-![images_08](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/8.jpg)
-![images_09](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/9.jpg)
-![images_10](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/10.jpg)
-![images_11](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/11.jpg)
-![images_12](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/12.jpg)
-![images_13](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/13.jpg)
-![images_14](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/14.jpg)
-![images_15](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/15.jpg)
-![images_16](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/16.jpg)
-![images_17](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/17.jpg)
-![images_18](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/18.jpg)
-![images_19](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/19.jpg)
-![images_20](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/20.jpg)
-![images_21](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/21.jpg)
+[![images_01](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/1.gif)](https://www.canva.com/design/DAFbkwt6KjQ/7im1RNlKjYkdZpg1dugivg/view?utm_content=DAFbkwt6KjQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 
 
