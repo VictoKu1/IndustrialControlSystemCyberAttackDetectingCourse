@@ -2,7 +2,14 @@
 
 ###### Ariel University, Israel || Semester A, 2022
 
-## [Presentation](https://www.canva.com/design/DAFbkwt6KjQ/7im1RNlKjYkdZpg1dugivg/view?utm_content=DAFbkwt6KjQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Presentation](https://www.canva.com/design/DAFbkwt6KjQ/7im1RNlKjYkdZpg1dugivg/view?utm_content=DAFbkwt6KjQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFbkwt6KjQ&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">  </iframe></div>
+
+
+
 
 
 ## LaTeX File (Upload To Overleaf)
@@ -10,9 +17,29 @@
 [Industrial Control System Power System Cyber Attacks Detection Research.zip](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Industrial%20Power%20Control%20System%20Cyber%20Attacks%20Detection.zip)
 
 
-## Main website
 
-[Link](https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets)
+## Links
+
+[Datasets](https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets)
+
+## Docker usage instructions:
+
+1. Pip requirements for the Jupyter notebook and the UI:
+```
+    pip install -r requirements.txt
+```
+
+2. Build the docker image:
+```
+    docker build -t anomaly_detection_ui
+```
+
+3. Run the docker container:
+```
+    docker run -it  anomaly_detection_ui
+```
+
+
 
 
 ## Datasets
@@ -41,30 +68,20 @@ The power system datasets have been used for multiple works related to power sys
 
 ## Additional Articles
 
-1. Industrial Control System Traffic Datasets For Intrusion Detection Research [Link](https://link.springer.com/content/pdf/10.1007/978-3-662-45355-1_5.pdf)
+1. [Industrial Control System Traffic Datasets For Intrusion Detection Research](https://link.springer.com/content/pdf/10.1007/978-3-662-45355-1_5.pdf)
 
-2. Cyber-Attack Detection for Industrial Control System Monitoring with Support Vector Machine Based on Communication Profile [Link](https://www.researchgate.net/profile/Ichiro-Koshijima/publication/318127445_Cyber-Attack_Detection_for_Industrial_Control_System_Monitoring_with_Support_Vector_Machine_Based_on_Communication_Profile/links/59f477b50f7e9b553ebbdeb6/Cyber-Attack-Detection-for-Industrial-Control-System-Monitoring-with-Support-Vector-Machine-Based-on-Communication-Profile.pdf)
+2. [Cyber-Attack Detection for Industrial Control System Monitoring with Support Vector Machine Based on Communication Profile](https://www.researchgate.net/profile/Ichiro-Koshijima/publication/318127445_Cyber-Attack_Detection_for_Industrial_Control_System_Monitoring_with_Support_Vector_Machine_Based_on_Communication_Profile/links/59f477b50f7e9b553ebbdeb6/Cyber-Attack-Detection-for-Industrial-Control-System-Monitoring-with-Support-Vector-Machine-Based-on-Communication-Profile.pdf)
 
-3. Efficient Cyber Attack Detection in Industrial Control Systems Using Lightweight Neural Networks and PCA [Link](https://arxiv.org/pdf/1907.01216)
+3. [Efficient Cyber Attack Detection in Industrial Control Systems Using Lightweight Neural Networks and PCA](https://arxiv.org/pdf/1907.01216)
 
-4. Measuring the Risk of Cyber Attack in Industrial Control Systems [Link](https://dora.dmu.ac.uk/bitstream/handle/2086/13839/ewic_icscsr2016_paper12.pdf?sequence=1)
+4. [Measuring the Risk of Cyber Attack in Industrial Control Systems](https://dora.dmu.ac.uk/bitstream/handle/2086/13839/ewic_icscsr2016_paper12.pdf?sequence=1)
 
-5. An Ensemble Deep Learning-Based Cyber-Attack Detection in Industrial Control System [Link](https://ieeexplore.ieee.org/iel7/6287639/8948470/09086038.pdf)
+5. [An Ensemble Deep Learning-Based Cyber-Attack Detection in Industrial Control System](https://ieeexplore.ieee.org/iel7/6287639/8948470/09086038.pdf)
 
 
-## Examples Of Datasets
 
-There are several publicly available datasets that could potentially be useful for research or experimentation in the area of industrial control system (ICS) power system cyberattacks detection.
 
-* [The NERC-CIP Dataset](https://www.nerc.com/pa/Stand/Pages/CIP-Simulated-Data-Sets.aspx): </br> This dataset contains simulated power system data and cyberattack scenarios, and was developed by the North American Electric Reliability Corporation (NERC). It is designed to be used for research and experimentation in the area of ICS cyber security.
 
-* [The SCADA Dataset](https://www.inl.gov/technicalpublications/Documents/5114928.pdf): </br> This dataset contains data from a simulated SCADA system and a number of cyberattack scenarios. It was developed by the Idaho National Laboratory (INL) and is available for use in research and experimentation.
-
-* [The WADI Dataset](https://www.gtisc.gatech.edu/node/1671): </br> This dataset contains data from a simulated water treatment plant, and includes both normal and anomalous data. It was developed by the Georgia Institute of Technology and is available for use in research and experimentation.
-
-* [The ICS-CERT Dataset](https://ics-cert.us-cert.gov/ICS-CERT-ICS-ALERT-16-203-01): </br> This dataset contains data from a simulated SCADA system and a number of cyberattack scenarios. It was developed by the US Department of Homeland Security (DHS) and is available for use in research and experimentation.
-
-* [The UAH Power System Dataset](http://www.ece.uah.edu/~thm0009/icsdatasets/): </br> This dataset contains data from a simulated power system and a number of cyberattack scenarios. It was developed by the University of Alabama in Huntsville (UAH) and is available for use in research and experimentation.
 
 
 
