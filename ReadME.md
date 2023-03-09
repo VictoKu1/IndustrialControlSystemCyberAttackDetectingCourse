@@ -44,7 +44,7 @@ http://157.230.22.122:5079/
 ```
 # Info
 
-[embed] https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Show1.pdf [/embed] 
+<iframe src="https://www.canva.com/design/DAFbkwt6KjQ/7im1RNlKjYkdZpg1dugivg/embed?embed_type=overlay" width="100%" height="500" frameborder="0"></iframe>
 
 
 
