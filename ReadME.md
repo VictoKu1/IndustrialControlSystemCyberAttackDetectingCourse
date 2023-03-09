@@ -44,18 +44,14 @@ http://157.230.22.122:5079/
 ```
 # Info
 
-<div style="width: 100%; overflow-x: scroll; white-space: nowrap;">
-  <img src="https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/1.jpg?raw=true" style="width: 100%; display: inline-block;">
-  <img src="https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/2.jpg?raw=true" style="width: 100%; display: inline-block;">
-  <img src="https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/3.jpg?raw=true" style="width: 100%; display: inline-block;">
-  <img src="https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/4.jpg?raw=true" style="width: 100%; display: inline-block;">
-  <img src="https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/5.jpg?raw=true" style="width: 100%; display: inline-block;">
-
-
-
-
-
-
+<div style="width: 100%; height: 400px; overflow-x: scroll;">
+    <div style="white-space: nowrap;">
+        <img src="https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/1.jpg?raw=true" style="width: 100%; display: inline-block;">
+        <img src="https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/2.jpg?raw=true" style="width: 100%; display: inline-block;">
+        <img src="https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/3.jpg?raw=true" style="width: 100%; display: inline-block;">
+        <img src="https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/4.jpg?raw=true" style="width: 100%; display: inline-block;">
+        <img src="https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/5.jpg?raw=true" style="width: 100%; display: inline-block;">
+    </div>
 </div>
 
 
