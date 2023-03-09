@@ -2,25 +2,11 @@
 
 ###### Ariel University, Israel || Semester A, 2022
 
-[Presentation](https://www.canva.com/design/DAFbkwt6KjQ/7im1RNlKjYkdZpg1dugivg/view?utm_content=DAFbkwt6KjQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-
-
-## LaTeX File (Upload To Overleaf)
-
-[Industrial Control System Power System Cyber Attacks Detection Research.zip](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Industrial%20Power%20Control%20System%20Cyber%20Attacks%20Detection.zip)
-
-
-
 ## Links
 
 #### Datasets:
 
 https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets
-
-
-
-
 
 #### Website:
 
@@ -42,7 +28,11 @@ http://157.230.22.122:5079/
 ```
     docker run -it  attack_detection_ui
 ```
-# Info
+
+
+
+
+# [Presentation](https://www.canva.com/design/DAFbkwt6KjQ/7im1RNlKjYkdZpg1dugivg/view?utm_content=DAFbkwt6KjQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ![images_01](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/1.jpg)
 ![images_02](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Media/2.jpg)
