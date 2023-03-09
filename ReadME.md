@@ -44,7 +44,7 @@ http://157.230.22.122:5079/
 ```
 # Info
 
-<iframe src="https://www.canva.com/design/DAFbkwt6KjQ/7im1RNlKjYkdZpg1dugivg/embed?embed_type=overlay" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://www.canva.com/design/DAFbkwt6KjQ/7im1RNlKjYkdZpg1dugivg/embed?embed_type=overlay" width="100%" height="500" frameborder="0" allow="fullscreen"></iframe>
 
 
 
