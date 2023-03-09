@@ -13,7 +13,6 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFbkwt6KjQ&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFbkwt6KjQ&#x2F;view?utm_content=DAFbkwt6KjQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Industrial Power Control System Disturbance and Cyber-attack Discrimination</a> автор: Victor Kushnir
 
 
 
