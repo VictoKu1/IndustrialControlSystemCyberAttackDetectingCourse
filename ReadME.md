@@ -24,8 +24,9 @@ http://157.230.22.122:5079/
 
 ## Docker usage instructions:
 
-1. Pip requirements for the Jupyter notebook and the UI:
+1. Upgrade pip and install requirements for the Jupyter notebook and the UI:
 ```
+    pip install --upgrade pip
     pip install -r requirements.txt
 ```
 
