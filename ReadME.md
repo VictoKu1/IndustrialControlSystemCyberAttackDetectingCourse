@@ -24,18 +24,31 @@ http://157.230.22.122:5079/
 
 ## Docker usage instructions:
 
-1. Upgrade pip and install requirements for the Jupyter notebook and the UI:
+1. Upgrade pip :
 ```
     pip install --upgrade pip
+```
+
+
+
+
+2. Install requirements for the Jupyter notebook and the UI:
+```
     pip install -r requirements.txt
 ```
 
-2. Build the docker image:
+
+
+
+
+
+3. Build the docker image:
 ```
     docker build -t attack_detection_ui
 ```
 
-3. Run the docker container:
+
+4. Run the docker container:
 ```
     docker run -it  attack_detection_ui
 ```
@@ -50,10 +63,6 @@ http://157.230.22.122:5079/
 * [3 Classes](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/triple) - The 37 event scenarios were grouped into 3 classes: attack events (28 events), natural event (8 events) or “No events” (1 event).
 
 * [Multi-class](https://github.com/VictoKu1/IndustrialControlSystemCyberAttackDetectingCourse/blob/master/Class/multiclass) - Each of the 37 event scenarios, which included attack events, natural events, and normal operations, was its own class and was predicted independently by the learners,
-
-
-
-
 
 
 
@@ -74,6 +83,7 @@ The power system datasets have been used for multiple works related to power sys
 * [Beaver, J., Borges, R., Buckner, M., Morris, T., Adhikari, U., Pan, S., Machine Learning for Power System Disturbance and Cyber-attack Discrimination, Proceedings of the 7th International Symposium on Resilient Control Systems, August 19-21,2014, Denver, CO, USA.](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1109%2FISRCS.2014.6900095&sa=D&sntz=1&usg=AOvVaw3fR5r_1bSnchlVhDlEXHXE)
 
 
+
 ## Additional Articles
 
 1. [Industrial Control System Traffic Datasets For Intrusion Detection Research](https://link.springer.com/content/pdf/10.1007/978-3-662-45355-1_5.pdf)
@@ -85,17 +95,6 @@ The power system datasets have been used for multiple works related to power sys
 4. [Measuring the Risk of Cyber Attack in Industrial Control Systems](https://dora.dmu.ac.uk/bitstream/handle/2086/13839/ewic_icscsr2016_paper12.pdf?sequence=1)
 
 5. [An Ensemble Deep Learning-Based Cyber-Attack Detection in Industrial Control System](https://ieeexplore.ieee.org/iel7/6287639/8948470/09086038.pdf)
-
-
-
-
-
-
-
-
-
-
-
 
 
 
