@@ -20,7 +20,7 @@ https://sites.google.com/a/uah.edu/tommy-morris-uah/ics-data-sets
 
 #### Website:
 
-http://157.230.22.122:5079/
+http://csariel.xyz:5079/
 
 ## Docker usage instructions:
 
